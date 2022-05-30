@@ -25,9 +25,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ## Integrantes:
 
-<a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2"> <img src= "https://img.shields.io/badge/Maximiles%20Barcelos%20--%20Scrum%20Master-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/"> <img src= "https://img.shields.io/badge/Leonardo%20Gabriel%20--%20Scrum%20Master-Linkedin-blue"></a> <br>
 <a href="https://www.linkedin.com/in/bahij-noureddine-941b681b7/"> <img src= "https://img.shields.io/badge/Bahij%20Noureddine%20--%20Product%20Owner-Linkedin-blue"></a> <br>
-<a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/"> <img src= "https://img.shields.io/badge/Leonardo%20Gabriel-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2"> <img src= "https://img.shields.io/badge/Maximiles%20Barcelos%20-Linkedin-blue"></a> <br>
 <a href="https://www.linkedin.com/mwlite/in/henrique-zucareli-santiago/"> <img src= "https://img.shields.io/badge/Henrique%20Zucareli-Linkedin-blue"></a> <br>
 
  ## Cliente:
@@ -45,7 +45,7 @@ Contendo mais de 500 produtos em seu catálogo,  a SPC mantém relações comerc
 O sistema Find Data gerencia potenciais clientes para vendedores da SPC, facilitando a conexão entre vendedor e potencial cliente. Filtrando uma base de dados disponibilizada pela SPC a Find Data recolhe e processa esses dados para filtrar potenciais empresas com base em consumo mensal.
 
  ## Documentação:
- - [Instruções de intalação](https://github.com/MaXximiles/API5-SEM/blob/main/Documentação/Instruções%20de%20instalação/README.md) 
+ - [Instruções de instalação](https://github.com/MaXximiles/API5-SEM/blob/main/Documentação/Instruções%20de%20instalação/README.md) 
  - [Backlog](https://github.com/MaXximiles/API5-SEM/tree/main/Documentação/User%20Story%20Cards)
  - [Wireframes](https://github.com/MaXximiles/API5-SEM/tree/main/Documentação/Wireframes)
  - [Modelo Conceitual do Banco de Dados](https://github.com/MaXximiles/API5-SEM/blob/main/Documentação/Database/MODELO_FISICO_v2.png)
