@@ -25,9 +25,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 ## Integrantes:
 
-<a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/"> <img src= "https://img.shields.io/badge/Leonardo%20Gabriel%20--%20Scrum%20Master-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2"> <img src= "https://img.shields.io/badge/Maximiles%20Barcelos%20--%20Scrum%20Master-Linkedin-blue"></a> <br>
 <a href="https://www.linkedin.com/in/bahij-noureddine-941b681b7/"> <img src= "https://img.shields.io/badge/Bahij%20Noureddine%20--%20Product%20Owner-Linkedin-blue"></a> <br>
-<a href="https://www.linkedin.com/in/maxx-barcelos-aaa106b2"> <img src= "https://img.shields.io/badge/Maximiles%20Barcelos%20-Linkedin-blue"></a> <br>
+<a href="https://www.linkedin.com/in/leonardo-gabriel-silva-11b8b8178/"> <img src= "https://img.shields.io/badge/Leonardo%20Gabriel-Linkedin-blue"></a> <br>
 <a href="https://www.linkedin.com/mwlite/in/henrique-zucareli-santiago/"> <img src= "https://img.shields.io/badge/Henrique%20Zucareli-Linkedin-blue"></a> <br>
 
  ## Cliente:
@@ -45,7 +45,7 @@ Contendo mais de 500 produtos em seu catálogo,  a SPC mantém relações comerc
 O sistema Find Data gerencia potenciais clientes para vendedores da SPC, facilitando a conexão entre vendedor e potencial cliente. Filtrando uma base de dados disponibilizada pela SPC a Find Data recolhe e processa esses dados para filtrar potenciais empresas com base em consumo mensal.
 
  ## Documentação:
- - [Instruções de instalação](https://github.com/MaXximiles/API5-SEM/blob/main/Documentação/Instruções%20de%20instalação/README.md) 
+ - [Instruções de intalação](https://github.com/MaXximiles/API5-SEM/blob/main/Documentação/Instruções%20de%20instalação/README.md) 
  - [Backlog](https://github.com/MaXximiles/API5-SEM/tree/main/Documentação/User%20Story%20Cards)
  - [Wireframes](https://github.com/MaXximiles/API5-SEM/tree/main/Documentação/Wireframes)
  - [Modelo Conceitual do Banco de Dados](https://github.com/MaXximiles/API5-SEM/blob/main/Documentação/Database/MODELO_FISICO_v2.png)
@@ -79,9 +79,8 @@ O sistema Find Data gerencia potenciais clientes para vendedores da SPC, facilit
                      <tr>
                             <td align=center>Sprint 3<br> 16/05 a 05/06</td>
                             <td> <p align=center>                          
-                      <p align=center> Adição da seção carteira/vendedor ao usuário vendedor; &nbsp Adição da seção prospects ao usuário vendedor;
-                       &nbsp Adição da ferramenta de pesquisa de empresas ao usuário vendedor;
-                       &nbsp Desenvolvimento da interface gráfica; &nbsp Versionamento do Banco de Dados.                        
+                      <p align=center> Módulo vendedor; &nbsp Dashboard de Administrador; &nbsp Dashboard de Inteligência; &nbsp Dashboard de Vendedor;
+                       &nbsp Tela de Adição de carteira;&nbsp Carteiras pendentes;&nbsp Minhas empresas;&nbsp Versionamento do Banco de Dados.                        
                       </p>
                       </td>
                             <td><p><a href="https://github.com/MaXximiles/API5-SEM/blob/sprint-3/README.md">Ver mais...</a></p></td>
