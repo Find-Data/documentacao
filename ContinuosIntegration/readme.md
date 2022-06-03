@@ -1,3 +1,5 @@
+<p align="center"> <img src = "https://user-images.githubusercontent.com/68132461/163346757-0757c301-4226-442f-aa6b-f75321aa10fe.png"> </p>
+
 
 * <b>Versionamento:</b>
 
